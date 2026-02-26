@@ -1,0 +1,14 @@
+{
+  "name": "inspect-hub-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "js-yaml": "^4.1.0"
+  }
+}
